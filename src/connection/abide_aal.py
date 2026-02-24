@@ -9,7 +9,7 @@ from nilearn.connectome import ConnectivityMeasure
 from nilearn.maskers import NiftiLabelsMasker
 
 # directory for output
-os.makedirs("out/figures", exist_ok=True)
+os.makedirs("out/figures/abide/aal", exist_ok=True)
 
 print("--- downloading single data from ABIDE... ---")
 
