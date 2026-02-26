@@ -1,5 +1,5 @@
 #  [ARCHIVED] ABIDE analysis prototype
-Re-directed to: [ABIDE-rdoc-analysis](https://github.com/aki91-g/ABIDE-rdoc-analysis)
+Re-directed to: [ABIDE-analysis]([https://github.com/aki91-g/ABIDE-rdoc-analysis](https://github.com/aki91-g/ABIDE-analysis))
 
 ## Overview
 Connectome visualization of AAL atlas datasets from ABIDE with MNE/Nilearn.
